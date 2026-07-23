@@ -59,3 +59,6 @@ Improve the balance of the arm by optimizing the weight distribution.
 Increase the arm's degrees of freedom for more natural movement.
 
 Add a functional gripper capable of picking up lightweight objects.
+
+## Watch working of this project here:
+https://www.youtube.com/shorts/DYNUtzJnawM
